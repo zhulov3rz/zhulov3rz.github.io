@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "zhu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Programmer. Japanese Language & Tech Enthusiast. Expert at being wrong on the internet."
+  bio    : "Expert at being wrong on the internet."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
